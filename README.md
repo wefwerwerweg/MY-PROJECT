@@ -22,9 +22,6 @@ plaintext
 4. Post-Exploitation  
    ├─ Data Exfiltration (Steganography, Covert Channels)  
    └─ Self-Destruction Mechanisms (Secure Erasure)  
-```
-
----
 
 ## 1. Attack Vectors  
 
